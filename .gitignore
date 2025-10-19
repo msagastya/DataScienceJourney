@@ -1,0 +1,8 @@
+echo "datasets/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+env/
+*.zip
+*.csv
+" > .gitignore
